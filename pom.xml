@@ -29,6 +29,7 @@
 		<jdk.version>1.6</jdk.version>
 	</properties>
 
+	<!--
 	<repositories>
 		<repository>
 			<id>local-file</id>
@@ -36,6 +37,7 @@
 			<layout>default</layout>
 		</repository>
 	</repositories>
+	-->
 
 	<developers>
 		<developer>
